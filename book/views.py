@@ -5,3 +5,7 @@ from.models import *
 
 def index(request):
     pass
+
+
+
+print("hello")
